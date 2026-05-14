@@ -5,7 +5,7 @@ Le but du projet est d'analyser les ventes en ligne de la librairie La Page afin
 Pour faire cette analyse je me suis appuyée sur 3 fichiers
 - **customers** qui contient les données client (identifiant, genre et année de naissance)
 - **products** qui contient les informations sur les livres (identifiant, prix et catégorie)
-- **transactions** qui contient les informations sur les transactions (identifiant du livre, identifiant du client, date d'achat et le numéro de session lors de l'achat)
+- **transactions** qui contient les informations sur les transactions (identifiant du livre, identifiant du client, date d'achat et le numéro de session lors de l'achat) (Le fichier a été réduit car il était trop volumineux pour être commité dans GitHub)
 
 ## 🛠️Outils
 - Python
